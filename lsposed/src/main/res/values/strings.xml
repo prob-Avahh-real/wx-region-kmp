@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="module_name">微信地区面具</string>
+    <string name="module_desc">隐藏微信个人资料地区，或强制显示为中国大陆。适配微信 8.x 多版本。</string>
+    <array name="xposed_scope">
+        <item>com.tencent.mm</item>
+    </array>
+</resources>

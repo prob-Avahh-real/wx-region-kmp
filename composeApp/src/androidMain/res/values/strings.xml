@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_desc">自动在微信个人信息页设置地区为「不显示」或「中国大陆」</string>
+</resources>
