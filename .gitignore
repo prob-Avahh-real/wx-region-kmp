@@ -10,3 +10,19 @@ captures/
 *.apk
 *.aab
 *.hprof
+# Publish hygiene & bloat exclusions
+.env
+.env.*
+!.env.example
+node_modules/
+.npm-cache/
+.build/
+DerivedData/
+android/app/build/
+android/.gradle/
+android/local.properties
+ios/App/Pods/
+__pycache__/
+.venv/
+coverage/
+*.ipa
